@@ -1,0 +1,1 @@
+git clone "ssh://username@localhost:29418/push-to-gerrit"
